@@ -18,7 +18,7 @@ import hist2 from "@/assets/hist-2.jpg";
 import hist3 from "@/assets/hist-3.jpg";
 
 // PASTE YOUR VERCEL BACKEND URL HERE LATER
-const BACKEND_URL = "";
+const BACKEND_URL = "https://media-vault-downloader-api.vercel.app/api/fetch";
 
 interface VideoMetadata {
   platform: Platform;
